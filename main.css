@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #FAFAFA;
+}
+
+#container{
+    border: 1px #fff;
+    height: 65vh;
+    width: 45%;
+    background-color: #fff;
+    margin-left: 27%;
+    margin-top: 8%;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+#leftside{
+    background-color: #5A3DF9;
+    width: 50%;
+    height: 65vh;
+}
+
+h4{
+    text-align: center;
+    color: #A593F9;
+    padding: 30px;
+}
+
+#header1{
+    font-weight: 800;
+    font-size: 380%;
+    color: #FEFEFE;
+    text-align: center;
+    margin-top: 10%;
+    padding: 10px;
+}
+
+#p1{
+    color: #8074FB;
+    font-weight: 400;
+    font-size: 100%;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+#inleft{
+    background-color: #4A23CA;
+    width: 45%;
+    height: 23vh;
+    margin-left: 29%;
+    border-radius: 63px;
+
+}
+
+#header2{
+    color: #FAFBFF;
+    text-align: center;
+    font-weight: 700;
+    font-size: 200%;
+    padding-top: 5px;
+}
+
+#p2{
+    color: #9B97FF;
+    text-align: center;
+    padding-top: 10px;
+}
+
+#p3{
+    color: #9B97FF;
+    text-align: center;
+}
+
+#header3{
+    margin-left: 55%;
+    margin-top: -62%;
+    font-weight: 700;
+    font-size: 125%;
+    color: #313346;
+}
+
+span{
+    display: block;
+    padding: 10px;
+    width: 80%;
+    margin: 4%;
+}
+
+#inright{
+    margin-left: 52%;
+    padding: 7px;
+}
+
+#s1{
+    background-color: #FFF6F5;
+    color: hsl(0, 100%, 67%);
+}
+
+#s2{
+    background-color: #FFFBF2;
+    color: hsl(39, 100%, 56%);
+}
+
+#s3{
+    background-color: #F2FBFA;
+    color: hsl(166, 100%, 37%);
+}
+
+#s4{
+    background-color: #F3F3FD;
+    color: hsl(234, 85%, 45%);
+}
+.numbers{
+    color: black;
+    margin-left: 35%;
+}
+
+.shade{
+    color: #99959D;
+}
+
+#st2, #st1{
+    margin-left: 43%;
+
+}
+
+img{
+    width: 15px;
+    margin-top: 5%;
+}
+
+input{
+    margin-left: 55%;
+    width: 40%;
+    padding: 11px;
+    border-radius: 22px;
+    background-color: hsl(224, 30%, 27%);
+    color: #fff;
+    border-color: hsl(224, 30%, 27%);
+}
